@@ -63,5 +63,8 @@
     "responsive",
     "image gallery",
     "images"
-  ]
+  ],
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  }
 }
