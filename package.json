@@ -27,17 +27,17 @@
     "jsdom": "^8.0.1",
     "lodash": "^3.10.1",
     "mocha": "^3.2.0",
-    "react": "~15.4.0",
-    "react-addons-test-utils": "^15.2.0",
+    "react": "~15.6.0",
+    "react-addons-test-utils": "^15.6.0",
     "react-component-gulp-tasks": "^0.7.7",
-    "react-dom": "^15.4.2",
+    "react-dom": "^15.6.0",
     "react-images": "~0.5.2",
     "react-measure": "^1.4.5",
     "sinon": "^1.17.7"
   },
   "peerDependencies": {
-    "react": "~15.4.0",
-    "react-dom": "~15.4.0"
+    "react": "~15.6.0",
+    "react-dom": "~15.6.0"
   },
   "browserify-shim": {
     "react": "global:React"
