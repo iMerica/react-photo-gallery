@@ -13,6 +13,9 @@
   "bugs": {
     "url": "https://github.com/neptunian/react-photo-gallery/issues"
   },
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
   "devDependencies": {
     "babel": "^5.8.21",
     "babel-eslint": "^4.0.10",
@@ -62,8 +65,5 @@
     "responsive",
     "image gallery",
     "images"
-  ],
-  "dependencies": {
-    "prop-types": "^15.6.0"
-  }
+  ]
 }
